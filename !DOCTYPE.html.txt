@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Интересные места мира</title>
+</head>
+<body>
+
+    <header>
+        <h1>Самые удивительные места мира</h1>
+    </header>
+
+    <main>
+        <h2>Места, которые стоит посетить</h2>
+        <p>Вот три удивительных места, которые впечатляют своей красотой:</p>
+
+        <ul>
+            <li><strong>Гранд-Каньон, США</strong> – одно из самых глубоких ущелий в мире.</li>
+            <li><strong>Мачу-Пикчу, Перу</strong> – древний город инков в горах.</li>
+            <li><strong>Северное сияние, Норвегия</strong> – невероятное природное явление.</li>
+        </ul>
+
+        <h2>Фотографии</h2>
+        <img src="https://via.placeholder.com/300" alt="Гранд-Каньон">
+        <img src="https://via.placeholder.com/300" alt="Мачу-Пикчу">
+        <img src="https://via.placeholder.com/300" alt="Северное сияние">
+
+        <p>Подробнее об этих местах можно узнать на <a href="https://www.nationalgeographic.com" target="_blank">National Geographic</a>.</p>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Путешествуй с нами!</p>
+    </footer>
+
+</body>
+</html>
